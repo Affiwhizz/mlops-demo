@@ -29,6 +29,19 @@ Loads data/Admission_Predict.csv and prints simple stats/filters.
 Notes
 Python 3.10+ recommended.
 
+## Sample Output
+Here’s an example run of the script:
+<img width="948" height="797" alt="Screenshot 2025-09-08 at 17 33 58" src="https://github.com/user-attachments/assets/90030d6b-ad66-4bef-ba4a-900ab1863b0c" />
+
+## Future Work
+- Expand data analysis with more complex Pandas operations.
+- Add unit tests to validate data transformations.
+- Integrate GitHub Actions for automated testing.
+- Explore packaging this project as a Python module.
+
 Dataset is for teaching/demo only.
+
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/Affiwhizz/mlops-demo)
 
 This repo reflects my learning journey with Pandas and Git/GitHub workflows. Feel free to fork or suggest improvements.
