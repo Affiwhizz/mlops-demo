@@ -45,3 +45,4 @@ Dataset is for teaching/demo only.
 ![GitHub last commit](https://img.shields.io/github/last-commit/Affiwhizz/mlops-demo)
 
 This repo reflects my learning journey with Pandas and Git/GitHub workflows. Feel free to fork or suggest improvements.
+ 
